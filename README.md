@@ -1,9 +1,10 @@
 # Quick-Meal 快食点餐 
-快食点餐小程序-系统分析与设计课程作业
-https://quick-meal.github.io/
+快食点餐小程序-系统分析与设计课程作业: 
+
+DashBoard页面： https://quick-meal.github.io/
 
 ##  项目代码所在位置
-(由于之前未使用github.io, <label style="color:red">**请老师在此处查看历史真实贡献量**</label>)
+(由于之前未使用github.io, 代码在另一个仓库，<label style="color:red">**请老师在此处查看历史真实贡献量**</label>)
 
 https://github.com/Quick-Meal/quick-meal
 
