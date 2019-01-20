@@ -19,7 +19,7 @@ layout: Default
     - 6.5 [System Sequence Diagrams](06-05-SystemSequenceDiagram功能模型.md)（功能模型）
     - 6.6 [Supplementary Requirements](06-06-SupplementaryRequirements补充性说明.md)（补充需求）
 * 7、Design（设计）
-    - 7.1 UI design
+    - 7.1 [UI design](07-01-UIDesign.md)
         - XX 用例 UI设计
     - 7.2 [Database design](07-02-Database_Design.md)(数据库设计)
     - 7.3 [Usecase design](07-03-Use_Case_Design.md)(用例设计）
