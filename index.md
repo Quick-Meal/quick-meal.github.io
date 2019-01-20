@@ -20,7 +20,6 @@ layout: default
     - 6.6 [Supplementary Requirements](06-06-SupplementaryRequirements补充性说明.md)（补充需求）
 * 7、Design（设计）
     - 7.1 [UI design](07-01-UIDesign.md)
-        - XX 用例 UI设计
     - 7.2 [Database design](07-02-Database_Design.md)(数据库设计)
     - 7.3 [Usecase design](07-03-Use_Case_Design.md)(用例设计）
 * 8、生产规范与指南
@@ -29,12 +28,13 @@ layout: default
     - 8.3 架构设计、详细设计（BCE方法）到应用程序框架映射指南
     - 8.4 部署说明
 * 9、成品展示
-    - 9.1 XX短视频
-    - 9.2 XX短视频
+    - 9.1 Quick-Meal 快食点餐演示
 * X1 meet_recording
     - inception meeting (yy/mm/dd)
 * X2 Tech/Work Report
     - [18214838-用例建模学习报告](18214838-LearnigReport.md)
 * X3 Final Report
     - [18214838-个人总结](18214838-FinalReport.md)
-    - 小组分工与贡献率说明
+    - [18214874-个人总结](18214874-FinalReport.md)
+    - [18214875-个人总结](18214875-FinalReport.md)
+    - [小组分工与贡献率说明](personal_contribution.md)
