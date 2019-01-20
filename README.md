@@ -9,7 +9,6 @@ DashBoard页面： https://quick-meal.github.io/
 https://github.com/Quick-Meal/quick-meal
 
 ------
-------
 
 ##  项目成员信息
 
@@ -21,6 +20,6 @@ https://github.com/Quick-Meal/quick-meal
 | 18214875 | 庄景宇 | 软件前端编程，项目前期调研     | zjy526223908 |    25%   |
 |  | 王勇   |  后端，数据库    | ------ |    25%   |
 | 18214838 | 尹阁麟 | 软件需求分析，规格说明撰写，UML建模 | godsome |    25%   |
-
+------
 
 
