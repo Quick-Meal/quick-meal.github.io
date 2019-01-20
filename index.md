@@ -12,12 +12,12 @@ layout: Default
 * 4、[Vision](04-Vision.md)（项目愿景）
 * 5、[Product Backlog](05-ProductBacklog.md)（产品特性）
 * 6、Requirement specification（需求规格说明）
-    - 6.1 Usecase Diagram（用例图）
-    - 6.2 Use Cases（用例+活动图）
-    - 6.3 Domian Models（领域模型）
-    - 6.4 State Models（状态模型）
-    - 6.5 System Sequence Diagrams（功能模型）
-    - 6.6 Supplementary Requirements（补充需求）
+    - 6.1 [Usecase Diagram](06-01-UsecaseDiagram.md)（用例图）
+    - 6.2 [Use Cases](06-02-UseCases用例+活动图.md)（用例+活动图）
+    - 6.3 [Domian Models](06-03-DomianModel领域模型.md)（领域模型）
+    - 6.4 [State Models](06-04-StateModel状态模型.md)（状态模型）
+    - 6.5 [System Sequence Diagrams](06-05-SystemSequenceDiagram功能模型.md)（功能模型）
+    - 6.6 [Supplementary Requirements](06-06-SupplementaryRequirements补充性说明.md)（补充需求）
 * 7、Design（设计）
     - 7.1 UI design
         - XX 用例 UI设计
@@ -40,7 +40,7 @@ layout: Default
 * X1 meet_recording
     - inception meeting (yy/mm/dd)
 * X2 Tech/Work Report
-    - 学号-title
+    - [18214838-用例建模学习报告](18214838-LearnigReport.md)
 * X3 Final Report
-    - 学号-title
+    - [18214838-个人总结](18214875-FinalReport.md)
     - 小组分工与贡献率说明
