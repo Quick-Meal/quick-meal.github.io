@@ -42,5 +42,5 @@ layout: Default
 * X2 Tech/Work Report
     - [18214838-用例建模学习报告](18214838-LearnigReport.md)
 * X3 Final Report
-    - [18214838-个人总结](18214875-FinalReport.md)
+    - [18214838-个人总结](18214838-FinalReport.md)
     - 小组分工与贡献率说明
