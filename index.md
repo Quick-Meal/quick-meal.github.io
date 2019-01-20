@@ -8,8 +8,8 @@ layout: Default
 
 * 1、[About](01-About.md)（项目规划）
 * 2、[Team profile](02-process.md)（团队组建02-team-profile） 
-* 3、Investigation（项目前期调研）
-* 4、Vision（项目愿景）
+* 3、[Investigation](03-Investigation.md)（项目前期调研）
+* 4、[Vision](04-Vision.md)（项目愿景）
 
 * 5、Product Backlog （产品特性）
 * 6、Requirement specification（需求规格说明）
