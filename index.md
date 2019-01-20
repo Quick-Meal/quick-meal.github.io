@@ -37,4 +37,5 @@ layout: default
     - [18214838-个人总结](18214838-FinalReport.md)
     - [18214874-个人总结](18214874-FinalReport.md)
     - [18214875-个人总结](18214875-FinalReport.md)
+* X4 Contribution
     - [小组分工与贡献率说明](personal_contribution.md)
