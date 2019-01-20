@@ -1,6 +1,6 @@
 # quick-meal.github.io
 快食点餐小程序-系统分析与设计课程作业
-
+https://quick-meal.github.io/
 
 ##  项目代码所在位置
 (由于之前未使用github.io, 请老师在此处查看历史真实贡献量)
