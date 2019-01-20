@@ -12,7 +12,7 @@
 
 小程序主页面如下图所示：
 
-![index 1](images/index 1.png)
+![index1](images/index1.png)
 
 
 
@@ -34,29 +34,30 @@
 
 ① 购物车页面
 
-![index 2](images/index 2.png)
+![index2](images/index2.jpg)
 
 
 
 ② 我的页面
 
-![index 5](images/index 5.png)
+![index5](images/index5.png)
 
 
 
 ③ 支付页面
 
-![index 3](images/index 3.png)
+![index3](images/index3.png)
 
 
 
-![index 4](images/index 4.png)
+![index4](images/index4.png)
 
 
 
 ④ 菜品分类页面
 
-![index 1 - 1](images/index 1 - 1.png)
+![index1_1](images/index1_1.png)
+
 
 
 
