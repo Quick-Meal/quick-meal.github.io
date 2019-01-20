@@ -34,7 +34,7 @@
 
 ① 购物车页面
 
-![index 2](images/index 2.png)
+![index 2](https://github.com/Quick-Meal/quick-meal.github.io/tree/master/images/index 2.png)
 
 
 
