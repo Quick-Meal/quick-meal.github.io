@@ -52,7 +52,7 @@ Select
 | Field       | Type | Key | Description                 |
 |-------------|------|-----|-----------------------------|
 | customer_id | int  | PRI | The ID of customer          |
-| food_id     | int  | PRI | The ID of food              |
+| food_id     | int  |     | The ID of food              |
 | food_num    | int  |     | The number of selected food |
 
 
