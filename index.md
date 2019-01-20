@@ -7,7 +7,7 @@ layout: default
 &nbsp;&nbsp; 
 
 * 1、[About](01 about)（项目规划）
-* 2、[Team profile](02-process)（团队组建02-team-profile） 
+* 2、[Team profile](02-process.md)（团队组建02-team-profile） 
 * 3、Investigation（项目前期调研）
 * 4、Vision（项目愿景）
 
