@@ -43,7 +43,11 @@
 ![](images/demo.gif)
 
 ----
-## 4）迭代
+## 4）设计
+![](images/design_1.Jpeg)
+![](images/design_2.Jpeg)
+![](images/design_3.Jpeg)
+## 5）迭代
 
 迭代1
 完成项目目标设定
