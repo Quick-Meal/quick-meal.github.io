@@ -28,9 +28,9 @@ layout: default
     - 8.3 架构设计、详细设计（BCE方法）到应用程序框架映射指南
     - 8.4 部署说明
 * 9、成品展示
-    - 9.1 Quick-Meal 快食点餐演示
+    - 9.1 [Quick-Meal 快食点餐演示](09-01-demo-show.md)
 * X1 meet_recording
-    - inception meeting (yy/mm/dd)
+    - [inception meeting all(yy/mm/dd)](X1-meeting1.md)
 * X2 Tech/Work Report
     - [18214838-用例建模学习报告](18214838-LearnigReport.md)
 * X3 Final Report
