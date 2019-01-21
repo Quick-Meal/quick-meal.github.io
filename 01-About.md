@@ -17,7 +17,7 @@
 
 需求文档
 
-[![Watch the video]()
+[Watch the video](images/demo.mp4)
 
 ## 4）迭代
 
