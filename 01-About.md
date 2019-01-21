@@ -19,16 +19,6 @@
 
 [Watch the video](https://www.meipai.com/media/1078311199)
 
-here
-<video width="320" height="240" controls="controls" autoplay="autoplay">
-  <source src="/i/movie.ogg" type="video/ogg" />
-  <source src="/i/movie.mp4" type="video/mp4" />
-  <source src="/i/movie.webm" type="video/webm" />
-  <object data="/i/movie.mp4" width="320" height="240">
-    <embed width="320" height="240" src="images/demo.mp4" />
-  </object>
-</video>
-
 
 ## 4）迭代
 
