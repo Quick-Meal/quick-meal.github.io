@@ -1,12 +1,12 @@
-## 用户及权限系统数据库设计
-Customer
+# 用户及权限系统数据库设计
+### Customer
 
 | Field         | Type        | Key | Description          |
 |---------------|-------------|-----|----------------------|
 | customer_id   | int         | PRI | The ID of customer   |
 | customer_name | varchar(20) |     | The name of customer |
 
-Seller
+### Seller
 
 | Field       | Type        | Key | Description            |
 |-------------|-------------|-----|------------------------|
@@ -15,7 +15,7 @@ Seller
 | seller_pwd  | varchar(20) |     | The password of seller |
 
 
-Order
+### Order
 
 | Field       | Type         | Key | Description              |
 |-------------|--------------|-----|--------------------------|
@@ -25,7 +25,7 @@ Order
 | order_state | varchar(10)  |     | The state of order       |
 | remark      | varchar(500) |     | The remark of order      |
 
-Menu
+### Menu
 
 | Field      | Type         | Key | Description               |
 |------------|--------------|-----|---------------------------|
@@ -36,7 +36,7 @@ Menu
 | food_desc  | varchar(100) |     | The description of food   |
 | food_img   | varchar(100) |     | The address of food image |
 
-Ordering
+### Ordering
 
 | Field      | Type         | Key | Description               |
 |------------|--------------|-----|---------------------------|
@@ -47,7 +47,7 @@ Ordering
 | food_desc  | varchar(100) |     | The description of food   |
 | food_img   | varchar(100) |     | The address of food image |
 
-Select
+### Select
 
 | Field       | Type | Key | Description                 |
 |-------------|------|-----|-----------------------------|
@@ -56,7 +56,7 @@ Select
 | food_num    | int  |     | The number of selected food |
 
 
-Manager
+### Manager
 
 | Field     | Type | Key | Description      |
 |-----------|------|-----|------------------|
@@ -64,5 +64,5 @@ Manager
 | food_id   | int  |     | The ID of food   |
 
 
-## ER Diagram:
+# ER Diagram:
 ![](images/er_diagram.png)
