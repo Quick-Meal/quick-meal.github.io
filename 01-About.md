@@ -37,7 +37,7 @@
 
 ## 3）Demo
 ### [查看演示视频](https://www.meipai.com/media/1078311199)
-[![Watch the video](images/index_1_mini.png)](https://www.meipai.com/media/1078311199)
+[![Watch the video](images/index1_mini.png)](https://www.meipai.com/media/1078311199)
 ----
 ### GIF图
 ![](images/demo.gif)
