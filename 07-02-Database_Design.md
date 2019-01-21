@@ -65,4 +65,4 @@ Manager
 
 
 ## ER Diagram:
-![](er_diagram.png)
+![](images/er_diagram.png)
